@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **JWT ,Authentication**
 
-- 👨‍💻 All of my projects are available at [https://n-a-asraful-khan.vercel.app/](https://n-a-asraful-khan.vercel.app/)
+- 👨‍💻 All of my projects are available at [n-a-asraful-khan.vercel.app](https://n-a-asraful-khan.vercel.app/)
 
 - 📫 How to reach me **n.a.asraful.khan@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/NA-Asraful-Khan/N.A.Asraful.Khan/raw/main/src/img/resume/Nur-A-Asraful-Khan.pdf](https://github.com/NA-Asraful-Khan/N.A.Asraful.Khan/raw/main/src/img/resume/Nur-A-Asraful-Khan.pdf)
+- 📄 Know about my experiences [Nur-A-Asraful-Khan.pdf](https://github.com/NA-Asraful-Khan/N.A.Asraful.Khan/raw/main/src/img/resume/Nur-A-Asraful-Khan.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
