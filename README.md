@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamshikhor" target="blank"><img src="https://img.shields.io/twitter/follow/iamshikhor?logo=twitter&style=for-the-badge" alt="iamshikhor" /></a> </p>
 
-- 🌱 I’m currently learning **JWT ,Authentication**
+- 🌱 I’m currently learning **Postgresql ,Prisma ORM**
 
 - 👨‍💻 All of my projects are available at [n-a-asraful-khan.vercel.app](https://n-a-asraful-khan.vercel.app/)
 
